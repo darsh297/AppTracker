@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/apps"
+        android:icon="@drawable/ic_baseline_apps_24"
+        android:title="Apps" />
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_speed_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Limits" />
+</menu>
